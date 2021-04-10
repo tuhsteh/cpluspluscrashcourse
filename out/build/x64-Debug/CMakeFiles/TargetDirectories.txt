@@ -1,0 +1,5 @@
+C:/Users/tstea/source/repos/tuhsteh/cpluspluscrashcourse/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/tstea/source/repos/tuhsteh/cpluspluscrashcourse/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tstea/source/repos/tuhsteh/cpluspluscrashcourse/out/build/x64-Debug/dedication/CMake-dedication/CMakeFiles/rebuild_cache.dir
+C:/Users/tstea/source/repos/tuhsteh/cpluspluscrashcourse/out/build/x64-Debug/dedication/CMake-dedication/CMakeFiles/CMake-dedication.dir
+C:/Users/tstea/source/repos/tuhsteh/cpluspluscrashcourse/out/build/x64-Debug/dedication/CMake-dedication/CMakeFiles/edit_cache.dir

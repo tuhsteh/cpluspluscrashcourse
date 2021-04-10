@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-intro",
+      "appliesTo": "dedication/intro.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-dedication",
+      "appliesTo": "dedication/",
+      "type": "launch"
+    }
+  ]
+}
